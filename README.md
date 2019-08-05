@@ -1,6 +1,6 @@
 ```
 grails create-app listenerbug
-cd listenerbugs
+cd listenerbug
 grails
 create-domain-class Example
 create-scaffold-controller Example
